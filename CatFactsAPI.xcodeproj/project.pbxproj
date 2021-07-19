@@ -19,6 +19,7 @@
 		3E2E35D926A5D13200857614 /* NetworkHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E35D826A5D13200857614 /* NetworkHelper.swift */; };
 		3E2E35DE26A5D18600857614 /* CatFactAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E35DD26A5D18600857614 /* CatFactAPI.swift */; };
 		3E2E35E326A5D49B00857614 /* CatFact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E35E226A5D49B00857614 /* CatFact.swift */; };
+		3E2E35E826A6409200857614 /* CatFactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E35E726A6409200857614 /* CatFactCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		3E2E35D826A5D13200857614 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
 		3E2E35DD26A5D18600857614 /* CatFactAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactAPI.swift; sourceTree = "<group>"; };
 		3E2E35E226A5D49B00857614 /* CatFact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFact.swift; sourceTree = "<group>"; };
+		3E2E35E726A6409200857614 /* CatFactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				3E2E35D826A5D13200857614 /* NetworkHelper.swift */,
 				3E2E35DD26A5D18600857614 /* CatFactAPI.swift */,
 				3E2E35E226A5D49B00857614 /* CatFact.swift */,
+				3E2E35E726A6409200857614 /* CatFactCell.swift */,
 			);
 			path = CatFactsAPI;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				3E2E35D426A5D12000857614 /* AppError.swift in Sources */,
 				3E2E35DE26A5D18600857614 /* CatFactAPI.swift in Sources */,
+				3E2E35E826A6409200857614 /* CatFactCell.swift in Sources */,
 				3E2E35E326A5D49B00857614 /* CatFact.swift in Sources */,
 				3E2E35A526A5CE3100857614 /* ViewController.swift in Sources */,
 				3E2E35D926A5D13200857614 /* NetworkHelper.swift in Sources */,
