@@ -8,5 +8,13 @@
 import UIKit
 
 class CatFactCell: UICollectionViewCell {
+    @IBOutlet weak var label: UILabel!
     
+    func configureCell(catFact: CatFact) {
+        label.text = catFact.fact
+    }
+    
+    @IBAction func buttonPressed(_ sender: UIButton) {
+        
+    }
 }
